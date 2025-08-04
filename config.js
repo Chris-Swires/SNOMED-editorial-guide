@@ -4,7 +4,7 @@
 const config = {
     // Google Gemini API Configuration
     gemini: {
-        apiKey: 'AIzaSyDMYJYHH06XhdN2x0J_oFMwSmcXyIlYpvs', // Add your Google Gemini API key here
+        apiKey: '', // Add your Google Gemini API key here
         model: 'gemini-1.5-flash', // or 'gemini-1.5-pro' for more advanced features
         maxTokens: 2048,
         temperature: 0.7,
