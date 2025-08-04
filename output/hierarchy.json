@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "01-snomed-ct-introduction",
+    "title": "SNOMED CT Introduction",
+    "level": 0,
+    "type": "category",
+    "path": "01-snomed-ct-introduction",
+    "files": [
+      {
+        "id": "snomed-ct-introduction",
+        "title": "Snomed Ct Introduction",
+        "file": "01-snomed-ct-introduction/snomed-ct-introduction.md",
+        "path": "01-snomed-ct-introduction/snomed-ct-introduction",
+        "type": "page"
+      },
+      {
+        "id": "snomed-ct-requirements",
+        "title": "Snomed Ct Requirements",
+        "file": "01-snomed-ct-introduction/snomed-ct-requirements.md",
+        "path": "01-snomed-ct-introduction/snomed-ct-requirements",
+        "type": "page"
+      },
+      {
+        "id": "structure-of-domain-coverage",
+        "title": "Structure Of Domain Coverage",
+        "file": "01-snomed-ct-introduction/structure-of-domain-coverage.md",
+        "path": "01-snomed-ct-introduction/structure-of-domain-coverage",
+        "type": "page"
+      },
+      {
+        "id": "knowledge-representation",
+        "title": "Knowledge Representation",
+        "file": "01-snomed-ct-introduction/knowledge-representation.md",
+        "path": "01-snomed-ct-introduction/knowledge-representation",
+        "type": "page"
+      },
+      {
+        "id": "out-of-scope",
+        "title": "Out Of Scope",
+        "file": "01-snomed-ct-introduction/out-of-scope.md",
+        "path": "01-snomed-ct-introduction/out-of-scope",
+        "type": "page"
+      },
+      {
+        "id": "medical-vocabularies-j-cimino",
+        "title": "Medical Vocabularies J Cimino",
+        "file": "01-snomed-ct-introduction/medical-vocabularies-j-cimino.md",
+        "path": "01-snomed-ct-introduction/medical-vocabularies-j-cimino",
+        "type": "page"
+      },
+      {
+        "id": "electronic-health-applications",
+        "title": "Electronic Health Applications",
+        "file": "01-snomed-ct-introduction/electronic-health-applications.md",
+        "path": "01-snomed-ct-introduction/electronic-health-applications",
+        "type": "page"
+      },
+      {
+        "id": "implementation-and-migration",
+        "title": "Implementation And Migration",
+        "file": "01-snomed-ct-introduction/implementation-and-migration.md",
+        "path": "01-snomed-ct-introduction/implementation-and-migration",
+        "type": "page"
+      },
+      {
+        "id": "user-communities",
+        "title": "User Communities",
+        "file": "01-snomed-ct-introduction/user-communities.md",
+        "path": "01-snomed-ct-introduction/user-communities",
+        "type": "page"
+      },
+      {
+        "id": "summary-of-snomed-ct-requirements",
+        "title": "Summary Of Snomed Ct Requirements",
+        "file": "01-snomed-ct-introduction/summary-of-snomed-ct-requirements.md",
+        "path": "01-snomed-ct-introduction/summary-of-snomed-ct-requirements",
+        "type": "page"
+      }
+    ]
+  },
+  {
+    "id": "02-concept-model-overview",
+    "title": "Concept Model Overview",
+    "level": 0,
+    "type": "category",
+    "path": "02-concept-model-overview",
+    "files": [
+      {
+        "id": "concept-model-overview",
+        "title": "Concept Model Overview",
+        "file": "02-concept-model-overview/concept-model-overview.md",
+        "path": "02-concept-model-overview/concept-model-overview",
+        "type": "page"
+      },
+      {
+        "id": "root-and-top-level-concepts",
+        "title": "Root And Top Level Concepts",
+        "file": "02-concept-model-overview/root-and-top-level-concepts.md",
+        "path": "02-concept-model-overview/root-and-top-level-concepts",
+        "type": "page"
+      },
+      {
+        "id": "snomed-ct-model-component",
+        "title": "Snomed Ct Model Component",
+        "file": "02-concept-model-overview/snomed-ct-model-component.md",
+        "path": "02-concept-model-overview/snomed-ct-model-component",
+        "type": "page"
+      },
+      {
+        "id": "attributes",
+        "title": "Attributes",
+        "file": "02-concept-model-overview/attributes.md",
+        "path": "02-concept-model-overview/attributes",
+        "type": "page"
+      },
+      {
+        "id": "defining-characteristics",
+        "title": "Defining Characteristics",
+        "file": "02-concept-model-overview/defining-characteristics.md",
+        "path": "02-concept-model-overview/defining-characteristics",
+        "type": "page"
+      },
+      {
+        "id": "qualifying-characteristics",
+        "title": "Qualifying Characteristics",
+        "file": "02-concept-model-overview/qualifying-characteristics.md",
+        "path": "02-concept-model-overview/qualifying-characteristics",
+        "type": "page"
+      }
+    ]
+  },
+  {
+    "id": "03-authoring",
+    "title": "Authoring",
+    "level": 0,
+    "type": "category",
+    "path": "03-authoring",
+    "subcategories": [
+      {
+        "id": "scope",
+        "title": "Scope",
+        "level": 1,
+        "type": "category",
+        "path": "scope",
+        "files": [
+          {
+            "id": "scope",
+            "title": "Scope",
+            "file": "03-authoring/scope/scope.md",
+            "path": "03-authoring/scope/scope",
+            "type": "page"
+          },
+          {
+            "id": "authoring",
+            "title": "Authoring",
+            "file": "03-authoring/scope/authoring.md",
+            "path": "03-authoring/scope/authoring",
+            "type": "page"
+          },
+          {
+            "id": "adjudication-for-content-requests",
+            "title": "Adjudication For Content Requests",
+            "file": "03-authoring/scope/adjudication-for-content-requests.md",
+            "path": "03-authoring/scope/adjudication-for-content-requests",
+            "type": "page"
+          },
+          {
+            "id": "proprietary-names-and-works",
+            "title": "Proprietary Names And Works",
+            "file": "03-authoring/scope/proprietary-names-and-works.md",
+            "path": "03-authoring/scope/proprietary-names-and-works",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "id": "general-naming-conventions",
+        "title": "General Naming Conventions",
+        "level": 1,
+        "type": "category",
+        "path": "general-naming-conventions",
+        "files": [
+          {
+            "id": "general-naming-conventions",
+            "title": "General Naming Conventions",
+            "file": "03-authoring/general-naming-conventions/general-naming-conventions.md",
+            "path": "03-authoring/general-naming-conventions/general-naming-conventions",
+            "type": "page"
+          },
+          {
+            "id": "descriptions",
+            "title": "Descriptions",
+            "file": "03-authoring/general-naming-conventions/descriptions.md",
+            "path": "03-authoring/general-naming-conventions/descriptions",
+            "type": "page"
+          },
+          {
+            "id": "fully-specified-name",
+            "title": "Fully Specified Name",
+            "file": "03-authoring/general-naming-conventions/fully-specified-name.md",
+            "path": "03-authoring/general-naming-conventions/fully-specified-name",
+            "type": "page"
+          },
+          {
+            "id": "preferred-term",
+            "title": "Preferred Term",
+            "file": "03-authoring/general-naming-conventions/preferred-term.md",
+            "path": "03-authoring/general-naming-conventions/preferred-term",
+            "type": "page"
+          },
+          {
+            "id": "synonym",
+            "title": "Synonym",
+            "file": "03-authoring/general-naming-conventions/synonym.md",
+            "path": "03-authoring/general-naming-conventions/synonym",
+            "type": "page"
+          },
+          {
+            "id": "definition",
+            "title": "Definition",
+            "file": "03-authoring/general-naming-conventions/definition.md",
+            "path": "03-authoring/general-naming-conventions/definition",
+            "type": "page"
+          },
+          {
+            "id": "description-inactivation",
+            "title": "Description Inactivation",
+            "file": "03-authoring/general-naming-conventions/description-inactivation.md",
+            "path": "03-authoring/general-naming-conventions/description-inactivation",
+            "type": "page"
+          },
+          {
+            "id": "case-significance",
+            "title": "Case Significance",
+            "file": "03-authoring/general-naming-conventions/case-significance.md",
+            "path": "03-authoring/general-naming-conventions/case-significance",
+            "type": "page"
+          },
+          {
+            "id": "person-naming-conventions",
+            "title": "Person Naming Conventions",
+            "file": "03-authoring/general-naming-conventions/person-naming-conventions.md",
+            "path": "03-authoring/general-naming-conventions/person-naming-conventions",
+            "type": "page"
+          },
+          {
+            "id": "plurals",
+            "title": "Plurals",
+            "file": "03-authoring/general-naming-conventions/plurals.md",
+            "path": "03-authoring/general-naming-conventions/plurals",
+            "type": "page"
+          },
+          {
+            "id": "punctuation-and-symbols",
+            "title": "Punctuation And Symbols",
+            "file": "03-authoring/general-naming-conventions/punctuation-and-symbols.md",
+            "path": "03-authoring/general-naming-conventions/punctuation-and-symbols",
+            "type": "page"
+          },
+          {
+            "id": "sentence-types",
+            "title": "Sentence Types",
+            "file": "03-authoring/general-naming-conventions/sentence-types.md",
+            "path": "03-authoring/general-naming-conventions/sentence-types",
+            "type": "page"
+          },
+          {
+            "id": "us-vs-gb-english",
+            "title": "Us Vs Gb English",
+            "file": "03-authoring/general-naming-conventions/us-vs-gb-english.md",
+            "path": "03-authoring/general-naming-conventions/us-vs-gb-english",
+            "type": "page"
+          },
+          {
+            "id": "action-verbs",
+            "title": "Action Verbs",
+            "file": "03-authoring/general-naming-conventions/action-verbs.md",
+            "path": "03-authoring/general-naming-conventions/action-verbs",
+            "type": "page"
+          },
+          {
+            "id": "numbers-and-numeric-ranges",
+            "title": "Numbers And Numeric Ranges",
+            "file": "03-authoring/general-naming-conventions/numbers-and-numeric-ranges.md",
+            "path": "03-authoring/general-naming-conventions/numbers-and-numeric-ranges",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "id": "general-modeling",
+        "title": "General Modeling",
+        "level": 1,
+        "type": "category",
+        "path": "general-modeling",
+        "files": [
+          {
+            "id": "general-modeling",
+            "title": "General Modeling",
+            "file": "03-authoring/general-modeling/general-modeling.md",
+            "path": "03-authoring/general-modeling/general-modeling",
+            "type": "page"
+          },
+          {
+            "id": "annotations",
+            "title": "Annotations",
+            "file": "03-authoring/general-modeling/annotations.md",
+            "path": "03-authoring/general-modeling/annotations",
+            "type": "page"
+          },
+          {
+            "id": "changes-to-components",
+            "title": "Changes To Components",
+            "file": "03-authoring/general-modeling/changes-to-components.md",
+            "path": "03-authoring/general-modeling/changes-to-components",
+            "type": "page"
+          },
+          {
+            "id": "concept-inactivation",
+            "title": "Concept Inactivation",
+            "file": "03-authoring/general-modeling/concept-inactivation.md",
+            "path": "03-authoring/general-modeling/concept-inactivation",
+            "type": "page"
+          },
+          {
+            "id": "conjunction-and-disjunction",
+            "title": "Conjunction And Disjunction",
+            "file": "03-authoring/general-modeling/conjunction-and-disjunction.md",
+            "path": "03-authoring/general-modeling/conjunction-and-disjunction",
+            "type": "page"
+          },
+          {
+            "id": "general-concept-inclusions-gcis",
+            "title": "General Concept Inclusions Gcis",
+            "file": "03-authoring/general-modeling/general-concept-inclusions-gcis.md",
+            "path": "03-authoring/general-modeling/general-concept-inclusions-gcis",
+            "type": "page"
+          },
+          {
+            "id": "grouper-concept",
+            "title": "Grouper Concept",
+            "file": "03-authoring/general-modeling/grouper-concept.md",
+            "path": "03-authoring/general-modeling/grouper-concept",
+            "type": "page"
+          },
+          {
+            "id": "intermediate-primitive-concept-modeling",
+            "title": "Intermediate Primitive Concept Modeling",
+            "file": "03-authoring/general-modeling/intermediate-primitive-concept-modeling.md",
+            "path": "03-authoring/general-modeling/intermediate-primitive-concept-modeling",
+            "type": "page"
+          },
+          {
+            "id": "proximal-primitive-modeling",
+            "title": "Proximal Primitive Modeling",
+            "file": "03-authoring/general-modeling/proximal-primitive-modeling.md",
+            "path": "03-authoring/general-modeling/proximal-primitive-modeling",
+            "type": "page"
+          },
+          {
+            "id": "relationship-group",
+            "title": "Relationship Group",
+            "file": "03-authoring/general-modeling/relationship-group.md",
+            "path": "03-authoring/general-modeling/relationship-group",
+            "type": "page"
+          },
+          {
+            "id": "sufficiently-defined-vs-primitive-concept",
+            "title": "Sufficiently Defined Vs Primitive Concept",
+            "file": "03-authoring/general-modeling/sufficiently-defined-vs-primitive-concept.md",
+            "path": "03-authoring/general-modeling/sufficiently-defined-vs-primitive-concept",
+            "type": "page"
+          },
+          {
+            "id": "templates",
+            "title": "Templates",
+            "file": "03-authoring/general-modeling/templates.md",
+            "path": "03-authoring/general-modeling/templates",
+            "type": "page"
+          },
+          {
+            "id": "null-values",
+            "title": "Null Values",
+            "file": "03-authoring/general-modeling/null-values.md",
+            "path": "03-authoring/general-modeling/null-values",
+            "type": "page"
+          },
+          {
+            "id": "revision",
+            "title": "Revision",
+            "file": "03-authoring/general-modeling/revision.md",
+            "path": "03-authoring/general-modeling/revision",
+            "type": "page"
+          },
+          {
+            "id": "semantic-tag",
+            "title": "Semantic Tag",
+            "file": "03-authoring/general-modeling/semantic-tag.md",
+            "path": "03-authoring/general-modeling/semantic-tag",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "id": "domain-specific-modeling",
+        "title": "Domain Specific Modeling",
+        "level": 1,
+        "type": "category",
+        "path": "domain-specific-modeling",
+        "subcategories": [
+          {
+            "id": "body-structure",
+            "title": "Body Structure",
+            "level": 2,
+            "type": "category",
+            "path": "body-structure",
+            "files": [
+              {
+                "id": "body-structure",
+                "title": "Body Structure",
+                "file": "03-authoring/domain-specific-modeling/body-structure/body-structure.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/body-structure",
+                "type": "page"
+              },
+              {
+                "id": "body-structure-attributes-summary",
+                "title": "Body Structure Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/body-structure/body-structure-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/body-structure-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "body-parts-and-regions",
+                "title": "Body Parts And Regions",
+                "file": "03-authoring/domain-specific-modeling/body-structure/body-parts-and-regions.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/body-parts-and-regions",
+                "type": "page"
+              },
+              {
+                "id": "body-temperature",
+                "title": "Body Temperature",
+                "file": "03-authoring/domain-specific-modeling/body-structure/body-temperature.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/body-temperature",
+                "type": "page"
+              },
+              {
+                "id": "anatomical-concept-model",
+                "title": "Anatomical Concept Model",
+                "file": "03-authoring/domain-specific-modeling/body-structure/anatomical-concept-model.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/anatomical-concept-model",
+                "type": "page"
+              },
+              {
+                "id": "anatomical-structure-modeling",
+                "title": "Anatomical Structure Modeling",
+                "file": "03-authoring/domain-specific-modeling/body-structure/anatomical-structure-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/anatomical-structure-modeling",
+                "type": "page"
+              },
+              {
+                "id": "anatomical-structure-naming-conventions",
+                "title": "Anatomical Structure Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/body-structure/anatomical-structure-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/anatomical-structure-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "anatomy-relating-to-the-spine",
+                "title": "Anatomy Relating To The Spine",
+                "file": "03-authoring/domain-specific-modeling/body-structure/anatomy-relating-to-the-spine.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/anatomy-relating-to-the-spine",
+                "type": "page"
+              },
+              {
+                "id": "cardiovascular-system",
+                "title": "Cardiovascular System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/cardiovascular-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/cardiovascular-system",
+                "type": "page"
+              },
+              {
+                "id": "digestive-system",
+                "title": "Digestive System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/digestive-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/digestive-system",
+                "type": "page"
+              },
+              {
+                "id": "ear",
+                "title": "Ear",
+                "file": "03-authoring/domain-specific-modeling/body-structure/ear.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/ear",
+                "type": "page"
+              },
+              {
+                "id": "endocrine-system",
+                "title": "Endocrine System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/endocrine-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/endocrine-system",
+                "type": "page"
+              },
+              {
+                "id": "eye",
+                "title": "Eye",
+                "file": "03-authoring/domain-specific-modeling/body-structure/eye.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/eye",
+                "type": "page"
+              },
+              {
+                "id": "genitourinary-system",
+                "title": "Genitourinary System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/genitourinary-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/genitourinary-system",
+                "type": "page"
+              },
+              {
+                "id": "hematologic-and-lymphatic-conditions",
+                "title": "Hematologic And Lymphatic Conditions",
+                "file": "03-authoring/domain-specific-modeling/body-structure/hematologic-and-lymphatic-conditions.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/hematologic-and-lymphatic-conditions",
+                "type": "page"
+              },
+              {
+                "id": "integumentary-system",
+                "title": "Integumentary System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/integumentary-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/integumentary-system",
+                "type": "page"
+              },
+              {
+                "id": "lymphatic-immune-hematologic-hematopoietic-systems",
+                "title": "Lymphatic Immune Hematologic Hematopoietic Systems",
+                "file": "03-authoring/domain-specific-modeling/body-structure/lymphatic-immune-hematologic-hematopoietic-systems.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/lymphatic-immune-hematologic-hematopoietic-systems",
+                "type": "page"
+              },
+              {
+                "id": "musculoskeletal-system",
+                "title": "Musculoskeletal System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/musculoskeletal-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/musculoskeletal-system",
+                "type": "page"
+              },
+              {
+                "id": "nervous-system",
+                "title": "Nervous System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/nervous-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/nervous-system",
+                "type": "page"
+              },
+              {
+                "id": "respiratory-system",
+                "title": "Respiratory System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/respiratory-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/respiratory-system",
+                "type": "page"
+              },
+              {
+                "id": "skeletal-system",
+                "title": "Skeletal System",
+                "file": "03-authoring/domain-specific-modeling/body-structure/skeletal-system.md",
+                "path": "03-authoring/domain-specific-modeling/body-structure/skeletal-system",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "clinical-finding-and-disorder",
+            "title": "Clinical Finding and Disorder",
+            "level": 2,
+            "type": "category",
+            "path": "clinical-finding-and-disorder",
+            "files": [
+              {
+                "id": "clinical-finding-and-disorder",
+                "title": "Clinical Finding And Disorder",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-and-disorder.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-and-disorder",
+                "type": "page"
+              },
+              {
+                "id": "clinical-finding-and-disorder-modeling",
+                "title": "Clinical Finding And Disorder Modeling",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-and-disorder-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-and-disorder-modeling",
+                "type": "page"
+              },
+              {
+                "id": "clinical-finding-and-disorder-naming-conventions",
+                "title": "Clinical Finding And Disorder Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-and-disorder-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-and-disorder-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "clinical-finding-attributes-summary",
+                "title": "Clinical Finding Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "clinical-finding-defining-attributes",
+                "title": "Clinical Finding Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/clinical-finding-defining-attributes",
+                "type": "page"
+              },
+              {
+                "id": "specific-clinical-finding-and-disorder-modeling",
+                "title": "Specific Clinical Finding And Disorder Modeling",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/specific-clinical-finding-and-disorder-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/specific-clinical-finding-and-disorder-modeling",
+                "type": "page"
+              },
+              {
+                "id": "morphologic-abnormalities-vs-findings",
+                "title": "Morphologic Abnormalities Vs Findings",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/morphologic-abnormalities-vs-findings.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/morphologic-abnormalities-vs-findings",
+                "type": "page"
+              },
+              {
+                "id": "morphologic-abnormality-modeling",
+                "title": "Morphologic Abnormality Modeling",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/morphologic-abnormality-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/morphologic-abnormality-modeling",
+                "type": "page"
+              },
+              {
+                "id": "creating-new-morphologies",
+                "title": "Creating New Morphologies",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/creating-new-morphologies.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/creating-new-morphologies",
+                "type": "page"
+              },
+              {
+                "id": "combining-morphologies",
+                "title": "Combining Morphologies",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/combining-morphologies.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/combining-morphologies",
+                "type": "page"
+              },
+              {
+                "id": "combining-morphologic-abnormalities",
+                "title": "Combining Morphologic Abnormalities",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/combining-morphologic-abnormalities.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/combining-morphologic-abnormalities",
+                "type": "page"
+              },
+              {
+                "id": "multiple-x-morphologic-abnormality",
+                "title": "Multiple X Morphologic Abnormality",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/multiple-x-morphologic-abnormality.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/multiple-x-morphologic-abnormality",
+                "type": "page"
+              },
+              {
+                "id": "disorder-combination-modeling",
+                "title": "Disorder Combination Modeling",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/disorder-combination-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/disorder-combination-modeling",
+                "type": "page"
+              },
+              {
+                "id": "lateralized-disorder-naming-conventions",
+                "title": "Lateralized Disorder Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/lateralized-disorder-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/lateralized-disorder-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "complication-and-sequela-modeling",
+                "title": "Complication And Sequela Modeling",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/complication-and-sequela-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/complication-and-sequela-modeling",
+                "type": "page"
+              },
+              {
+                "id": "congenital-anomaly",
+                "title": "Congenital Anomaly",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/congenital-anomaly.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/congenital-anomaly",
+                "type": "page"
+              },
+              {
+                "id": "congenital",
+                "title": "Congenital",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/congenital.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/congenital",
+                "type": "page"
+              },
+              {
+                "id": "acquired-abnormality-of-congenital-anomaly",
+                "title": "Acquired Abnormality Of Congenital Anomaly",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/acquired-abnormality-of-congenital-anomaly.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/acquired-abnormality-of-congenital-anomaly",
+                "type": "page"
+              },
+              {
+                "id": "malformation-deformity-anomaly",
+                "title": "Malformation Deformity Anomaly",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/malformation-deformity-anomaly.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/malformation-deformity-anomaly",
+                "type": "page"
+              },
+              {
+                "id": "genetic-developmental-congenital-and-physical-origin",
+                "title": "Genetic Developmental Congenital And Physical Origin",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/genetic-developmental-congenital-and-physical-origin.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/genetic-developmental-congenital-and-physical-origin",
+                "type": "page"
+              },
+              {
+                "id": "co-occuring-genomic-disorders",
+                "title": "Co Occuring Genomic Disorders",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/co-occuring-genomic-disorders.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/co-occuring-genomic-disorders",
+                "type": "page"
+              },
+              {
+                "id": "maternal-fetal-neonatal",
+                "title": "Maternal Fetal Neonatal",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/maternal-fetal-neonatal.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/maternal-fetal-neonatal",
+                "type": "page"
+              },
+              {
+                "id": "infectious-vs-inflammatory",
+                "title": "Infectious Vs Inflammatory",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/infectious-vs-inflammatory.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/infectious-vs-inflammatory",
+                "type": "page"
+              },
+              {
+                "id": "enteritis",
+                "title": "Enteritis",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/enteritis.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/enteritis",
+                "type": "page"
+              },
+              {
+                "id": "pneumonia-vs-pneumonitis",
+                "title": "Pneumonia Vs Pneumonitis",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/pneumonia-vs-pneumonitis.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/pneumonia-vs-pneumonitis",
+                "type": "page"
+              },
+              {
+                "id": "immune-function-disorders",
+                "title": "Immune Function Disorders",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/immune-function-disorders.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/immune-function-disorders",
+                "type": "page"
+              },
+              {
+                "id": "mental-health",
+                "title": "Mental Health",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/mental-health.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/mental-health",
+                "type": "page"
+              },
+              {
+                "id": "multisystem-disorders",
+                "title": "Multisystem Disorders",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/multisystem-disorders.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/multisystem-disorders",
+                "type": "page"
+              },
+              {
+                "id": "neoplasm",
+                "title": "Neoplasm",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/neoplasm.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/neoplasm",
+                "type": "page"
+              },
+              {
+                "id": "neoplasm-observables",
+                "title": "Neoplasm Observables",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/neoplasm-observables.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/neoplasm-observables",
+                "type": "page"
+              },
+              {
+                "id": "tumor-morphology",
+                "title": "Tumor Morphology",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/tumor-morphology.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/tumor-morphology",
+                "type": "page"
+              },
+              {
+                "id": "trauma-and-injury",
+                "title": "Trauma And Injury",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/trauma-and-injury.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/trauma-and-injury",
+                "type": "page"
+              },
+              {
+                "id": "poisoning",
+                "title": "Poisoning",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/poisoning.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/poisoning",
+                "type": "page"
+              },
+              {
+                "id": "adverse-reaction-to-x-vaccine",
+                "title": "Adverse Reaction To X Vaccine",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/adverse-reaction-to-x-vaccine.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/adverse-reaction-to-x-vaccine",
+                "type": "page"
+              },
+              {
+                "id": "allergy-to-x-vaccine",
+                "title": "Allergy To X Vaccine",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/allergy-to-x-vaccine.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/allergy-to-x-vaccine",
+                "type": "page"
+              },
+              {
+                "id": "overdose",
+                "title": "Overdose",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/overdose.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/overdose",
+                "type": "page"
+              },
+              {
+                "id": "substance-withdrawal-syndrome",
+                "title": "Substance Withdrawal Syndrome",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/substance-withdrawal-syndrome.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/substance-withdrawal-syndrome",
+                "type": "page"
+              },
+              {
+                "id": "death",
+                "title": "Death",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/death.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/death",
+                "type": "page"
+              },
+              {
+                "id": "remission",
+                "title": "Remission",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/remission.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/remission",
+                "type": "page"
+              },
+              {
+                "id": "iatrogenic",
+                "title": "Iatrogenic",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/iatrogenic.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/iatrogenic",
+                "type": "page"
+              },
+              {
+                "id": "ischemia",
+                "title": "Ischemia",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/ischemia.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/ischemia",
+                "type": "page"
+              },
+              {
+                "id": "abscess",
+                "title": "Abscess",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/abscess.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/abscess",
+                "type": "page"
+              },
+              {
+                "id": "lesion",
+                "title": "Lesion",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/lesion.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/lesion",
+                "type": "page"
+              },
+              {
+                "id": "lump-and-mass",
+                "title": "Lump And Mass",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/lump-and-mass.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/lump-and-mass",
+                "type": "page"
+              },
+              {
+                "id": "fracture",
+                "title": "Fracture",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/fracture.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/fracture",
+                "type": "page"
+              },
+              {
+                "id": "hernia",
+                "title": "Hernia",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/hernia.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/hernia",
+                "type": "page"
+              },
+              {
+                "id": "obstruction",
+                "title": "Obstruction",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/obstruction.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/obstruction",
+                "type": "page"
+              },
+              {
+                "id": "aspiration",
+                "title": "Aspiration",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/aspiration.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/aspiration",
+                "type": "page"
+              },
+              {
+                "id": "centesis",
+                "title": "Centesis",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/centesis.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/centesis",
+                "type": "page"
+              },
+              {
+                "id": "arrythmia",
+                "title": "Arrythmia",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/arrythmia.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/arrythmia",
+                "type": "page"
+              },
+              {
+                "id": "pulmonary-embolism",
+                "title": "Pulmonary Embolism",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/pulmonary-embolism.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/pulmonary-embolism",
+                "type": "page"
+              },
+              {
+                "id": "osteoarthritis",
+                "title": "Osteoarthritis",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/osteoarthritis.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/osteoarthritis",
+                "type": "page"
+              },
+              {
+                "id": "rheumatoid-arthritis",
+                "title": "Rheumatoid Arthritis",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/rheumatoid-arthritis.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/rheumatoid-arthritis",
+                "type": "page"
+              },
+              {
+                "id": "pressure-ulcer-pressure-injury",
+                "title": "Pressure Ulcer Pressure Injury",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/pressure-ulcer-pressure-injury.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/pressure-ulcer-pressure-injury",
+                "type": "page"
+              },
+              {
+                "id": "degeneration-and-degenerative-abnormality",
+                "title": "Degeneration And Degenerative Abnormality",
+                "file": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/degeneration-and-degenerative-abnormality.md",
+                "path": "03-authoring/domain-specific-modeling/clinical-finding-and-disorder/degeneration-and-degenerative-abnormality",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "procedure",
+            "title": "Procedure",
+            "level": 2,
+            "type": "category",
+            "path": "procedure",
+            "files": [
+              {
+                "id": "procedure",
+                "title": "Procedure",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure",
+                "type": "page"
+              },
+              {
+                "id": "procedure-modeling",
+                "title": "Procedure Modeling",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure-modeling",
+                "type": "page"
+              },
+              {
+                "id": "procedure-naming-conventions",
+                "title": "Procedure Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "procedure-attributes-summary",
+                "title": "Procedure Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "procedure-attributes",
+                "title": "Procedure Attributes",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure-attributes",
+                "type": "page"
+              },
+              {
+                "id": "procedure-defining-attributes",
+                "title": "Procedure Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure-defining-attributes",
+                "type": "page"
+              },
+              {
+                "id": "procedure-during-period-of-life",
+                "title": "Procedure During Period Of Life",
+                "file": "03-authoring/domain-specific-modeling/procedure/procedure-during-period-of-life.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/procedure-during-period-of-life",
+                "type": "page"
+              },
+              {
+                "id": "lateralized-procedure-naming-conventions",
+                "title": "Lateralized Procedure Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/procedure/lateralized-procedure-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/lateralized-procedure-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "imaging",
+                "title": "Imaging",
+                "file": "03-authoring/domain-specific-modeling/procedure/imaging.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/imaging",
+                "type": "page"
+              },
+              {
+                "id": "imaging-adjustments-for-view-projection-or-technique",
+                "title": "Imaging Adjustments For View Projection Or Technique",
+                "file": "03-authoring/domain-specific-modeling/procedure/imaging-adjustments-for-view-projection-or-technique.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/imaging-adjustments-for-view-projection-or-technique",
+                "type": "page"
+              },
+              {
+                "id": "imaging-guided-procedure-modeling",
+                "title": "Imaging Guided Procedure Modeling",
+                "file": "03-authoring/domain-specific-modeling/procedure/imaging-guided-procedure-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/imaging-guided-procedure-modeling",
+                "type": "page"
+              },
+              {
+                "id": "imaging-guided-procedure-naming",
+                "title": "Imaging Guided Procedure Naming",
+                "file": "03-authoring/domain-specific-modeling/procedure/imaging-guided-procedure-naming.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/imaging-guided-procedure-naming",
+                "type": "page"
+              },
+              {
+                "id": "clinical-imaging-procedure-naming-conventions",
+                "title": "Clinical Imaging Procedure Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/procedure/clinical-imaging-procedure-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/clinical-imaging-procedure-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "diagnostic-imaging-for-multiple-body-sites",
+                "title": "Diagnostic Imaging For Multiple Body Sites",
+                "file": "03-authoring/domain-specific-modeling/procedure/diagnostic-imaging-for-multiple-body-sites.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/diagnostic-imaging-for-multiple-body-sites",
+                "type": "page"
+              },
+              {
+                "id": "computed-tomography-ct",
+                "title": "Computed Tomography Ct",
+                "file": "03-authoring/domain-specific-modeling/procedure/computed-tomography-ct.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/computed-tomography-ct",
+                "type": "page"
+              },
+              {
+                "id": "magnetic-resonance-imaging-mri",
+                "title": "Magnetic Resonance Imaging Mri",
+                "file": "03-authoring/domain-specific-modeling/procedure/magnetic-resonance-imaging-mri.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/magnetic-resonance-imaging-mri",
+                "type": "page"
+              },
+              {
+                "id": "radiographic-imaging-x-ray-and-plain-x-ray",
+                "title": "Radiographic Imaging X Ray And Plain X Ray",
+                "file": "03-authoring/domain-specific-modeling/procedure/radiographic-imaging-x-ray-and-plain-x-ray.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/radiographic-imaging-x-ray-and-plain-x-ray",
+                "type": "page"
+              },
+              {
+                "id": "fluoroscopy-and-fluoroscopic-imaging",
+                "title": "Fluoroscopy And Fluoroscopic Imaging",
+                "file": "03-authoring/domain-specific-modeling/procedure/fluoroscopy-and-fluoroscopic-imaging.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/fluoroscopy-and-fluoroscopic-imaging",
+                "type": "page"
+              },
+              {
+                "id": "ultrasonography",
+                "title": "Ultrasonography",
+                "file": "03-authoring/domain-specific-modeling/procedure/ultrasonography.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/ultrasonography",
+                "type": "page"
+              },
+              {
+                "id": "duplex-ultrasonography-doppler-ultrasound-and-doppler-ultrasonography",
+                "title": "Duplex Ultrasonography Doppler Ultrasound And Doppler Ultrasonography",
+                "file": "03-authoring/domain-specific-modeling/procedure/duplex-ultrasonography-doppler-ultrasound-and-doppler-ultrasonography.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/duplex-ultrasonography-doppler-ultrasound-and-doppler-ultrasonography",
+                "type": "page"
+              },
+              {
+                "id": "nuclear-medicine-radionuclide-imaging",
+                "title": "Nuclear Medicine Radionuclide Imaging",
+                "file": "03-authoring/domain-specific-modeling/procedure/nuclear-medicine-radionuclide-imaging.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/nuclear-medicine-radionuclide-imaging",
+                "type": "page"
+              },
+              {
+                "id": "positron-emission-tomography-pet",
+                "title": "Positron Emission Tomography Pet",
+                "file": "03-authoring/domain-specific-modeling/procedure/positron-emission-tomography-pet.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/positron-emission-tomography-pet",
+                "type": "page"
+              },
+              {
+                "id": "single-photon-emission-computed-tomography-spect",
+                "title": "Single Photon Emission Computed Tomography Spect",
+                "file": "03-authoring/domain-specific-modeling/procedure/single-photon-emission-computed-tomography-spect.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/single-photon-emission-computed-tomography-spect",
+                "type": "page"
+              },
+              {
+                "id": "multi-modality-imaging-pet-ct-and-spect-ct",
+                "title": "Multi Modality Imaging Pet Ct And Spect Ct",
+                "file": "03-authoring/domain-specific-modeling/procedure/multi-modality-imaging-pet-ct-and-spect-ct.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/multi-modality-imaging-pet-ct-and-spect-ct",
+                "type": "page"
+              },
+              {
+                "id": "contrast-for-imaging",
+                "title": "Contrast For Imaging",
+                "file": "03-authoring/domain-specific-modeling/procedure/contrast-for-imaging.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/contrast-for-imaging",
+                "type": "page"
+              },
+              {
+                "id": "endoscopy-and-endoscopic-procedures",
+                "title": "Endoscopy And Endoscopic Procedures",
+                "file": "03-authoring/domain-specific-modeling/procedure/endoscopy-and-endoscopic-procedures.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/endoscopy-and-endoscopic-procedures",
+                "type": "page"
+              },
+              {
+                "id": "surgical-procedures",
+                "title": "Surgical Procedures",
+                "file": "03-authoring/domain-specific-modeling/procedure/surgical-procedures.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/surgical-procedures",
+                "type": "page"
+              },
+              {
+                "id": "surgical-vs-non-surgical",
+                "title": "Surgical Vs Non Surgical",
+                "file": "03-authoring/domain-specific-modeling/procedure/surgical-vs-non-surgical.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/surgical-vs-non-surgical",
+                "type": "page"
+              },
+              {
+                "id": "surgical-repair",
+                "title": "Surgical Repair",
+                "file": "03-authoring/domain-specific-modeling/procedure/surgical-repair.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/surgical-repair",
+                "type": "page"
+              },
+              {
+                "id": "excision-incision-biopsy",
+                "title": "Excision Incision Biopsy",
+                "file": "03-authoring/domain-specific-modeling/procedure/excision-incision-biopsy.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/excision-incision-biopsy",
+                "type": "page"
+              },
+              {
+                "id": "division-lysis-transection-bisection",
+                "title": "Division Lysis Transection Bisection",
+                "file": "03-authoring/domain-specific-modeling/procedure/division-lysis-transection-bisection.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/division-lysis-transection-bisection",
+                "type": "page"
+              },
+              {
+                "id": "grafting",
+                "title": "Grafting",
+                "file": "03-authoring/domain-specific-modeling/procedure/grafting.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/grafting",
+                "type": "page"
+              },
+              {
+                "id": "flap-procedures",
+                "title": "Flap Procedures",
+                "file": "03-authoring/domain-specific-modeling/procedure/flap-procedures.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/flap-procedures",
+                "type": "page"
+              },
+              {
+                "id": "transplantation",
+                "title": "Transplantation",
+                "file": "03-authoring/domain-specific-modeling/procedure/transplantation.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/transplantation",
+                "type": "page"
+              },
+              {
+                "id": "prosthetic-arthroplasty-of-joint",
+                "title": "Prosthetic Arthroplasty Of Joint",
+                "file": "03-authoring/domain-specific-modeling/procedure/prosthetic-arthroplasty-of-joint.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/prosthetic-arthroplasty-of-joint",
+                "type": "page"
+              },
+              {
+                "id": "diathermy",
+                "title": "Diathermy",
+                "file": "03-authoring/domain-specific-modeling/procedure/diathermy.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/diathermy",
+                "type": "page"
+              },
+              {
+                "id": "technique",
+                "title": "Technique",
+                "file": "03-authoring/domain-specific-modeling/procedure/technique.md",
+                "path": "03-authoring/domain-specific-modeling/procedure/technique",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "pharmaceutical-and-biologic-product",
+            "title": "Pharmaceutical / Biologic Product",
+            "level": 2,
+            "type": "category",
+            "path": "pharmaceutical-and-biologic-product",
+            "files": [
+              {
+                "id": "pharmaceutical-and-biologic-product",
+                "title": "Pharmaceutical And Biologic Product",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-and-biologic-product.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-and-biologic-product",
+                "type": "page"
+              },
+              {
+                "id": "pharmaceutical-and-biologic-product-and-dose-form-attributes-summary",
+                "title": "Pharmaceutical And Biologic Product And Dose Form Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-and-biologic-product-and-dose-form-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-and-biologic-product-and-dose-form-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-and-medicinal-product-forms",
+                "title": "Medicinal Product And Medicinal Product Forms",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-and-medicinal-product-forms.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-and-medicinal-product-forms",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product",
+                "title": "Medicinal Product",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-containing",
+                "title": "Medicinal Product Containing",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-containing.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-containing",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-containing-only",
+                "title": "Medicinal Product Containing Only",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-containing-only.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-containing-only",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-form-mpf",
+                "title": "Medicinal Product Form Mpf",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-form-mpf.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-form-mpf",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-form-containing",
+                "title": "Medicinal Product Form Containing",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-form-containing.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-form-containing",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-form-containing-only",
+                "title": "Medicinal Product Form Containing Only",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-form-containing-only.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-form-containing-only",
+                "type": "page"
+              },
+              {
+                "id": "medicinal-product-groupers",
+                "title": "Medicinal Product Groupers",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-groupers.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/medicinal-product-groupers",
+                "type": "page"
+              },
+              {
+                "id": "clinical-drug",
+                "title": "Clinical Drug",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/clinical-drug.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/clinical-drug",
+                "type": "page"
+              },
+              {
+                "id": "clinical-drug-with-continuous-dose-form",
+                "title": "Clinical Drug With Continuous Dose Form",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/clinical-drug-with-continuous-dose-form.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/clinical-drug-with-continuous-dose-form",
+                "type": "page"
+              },
+              {
+                "id": "clinical-drug-with-discrete-dose-form",
+                "title": "Clinical Drug With Discrete Dose Form",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/clinical-drug-with-discrete-dose-form.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/clinical-drug-with-discrete-dose-form",
+                "type": "page"
+              },
+              {
+                "id": "specific-clinical-drug-modeling",
+                "title": "Specific Clinical Drug Modeling",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/specific-clinical-drug-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/specific-clinical-drug-modeling",
+                "type": "page"
+              },
+              {
+                "id": "pharmaceutical-dose-form",
+                "title": "Pharmaceutical Dose Form",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form",
+                "type": "page"
+              },
+              {
+                "id": "pharmaceutical-dose-form-naming-and-modeling-conventions",
+                "title": "Pharmaceutical Dose Form Naming And Modeling Conventions",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-naming-and-modeling-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-naming-and-modeling-conventions",
+                "type": "page"
+              },
+              {
+                "id": "pharmaceutical-dose-form-supporting-hierarchies",
+                "title": "Pharmaceutical Dose Form Supporting Hierarchies",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-supporting-hierarchies.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-supporting-hierarchies",
+                "type": "page"
+              },
+              {
+                "id": "pharmaceutical-dose-form-grouper-based-on-intended-site",
+                "title": "Pharmaceutical Dose Form Grouper Based On Intended Site",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-grouper-based-on-intended-site.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-grouper-based-on-intended-site",
+                "type": "page"
+              },
+              {
+                "id": "pharmaceutical-dose-form-grouper-without-basic-dose-form",
+                "title": "Pharmaceutical Dose Form Grouper Without Basic Dose Form",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-grouper-without-basic-dose-form.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/pharmaceutical-dose-form-grouper-without-basic-dose-form",
+                "type": "page"
+              },
+              {
+                "id": "basic-dose-form",
+                "title": "Basic Dose Form",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/basic-dose-form.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/basic-dose-form",
+                "type": "page"
+              },
+              {
+                "id": "dose-form-administration-method",
+                "title": "Dose Form Administration Method",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-administration-method.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-administration-method",
+                "type": "page"
+              },
+              {
+                "id": "dose-form-intended-site",
+                "title": "Dose Form Intended Site",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-intended-site.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-intended-site",
+                "type": "page"
+              },
+              {
+                "id": "dose-form-release-characteristic",
+                "title": "Dose Form Release Characteristic",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-release-characteristic.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-release-characteristic",
+                "type": "page"
+              },
+              {
+                "id": "dose-form-transformation",
+                "title": "Dose Form Transformation",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-transformation.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/dose-form-transformation",
+                "type": "page"
+              },
+              {
+                "id": "groupers-based-on-disposition",
+                "title": "Groupers Based On Disposition",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-disposition.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-disposition",
+                "type": "page"
+              },
+              {
+                "id": "groupers-based-on-dose-form-intended-site",
+                "title": "Groupers Based On Dose Form Intended Site",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-dose-form-intended-site.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-dose-form-intended-site",
+                "type": "page"
+              },
+              {
+                "id": "groupers-based-on-infusion-and-or-injection",
+                "title": "Groupers Based On Infusion And Or Injection",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-infusion-and-or-injection.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-infusion-and-or-injection",
+                "type": "page"
+              },
+              {
+                "id": "groupers-based-on-multiple-dispositions-structures",
+                "title": "Groupers Based On Multiple Dispositions Structures",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-multiple-dispositions-structures.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-multiple-dispositions-structures",
+                "type": "page"
+              },
+              {
+                "id": "groupers-based-on-structure",
+                "title": "Groupers Based On Structure",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-structure.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/groupers-based-on-structure",
+                "type": "page"
+              },
+              {
+                "id": "vaccine-products-in-the-medicinal-product-hierarchy",
+                "title": "Vaccine Products In The Medicinal Product Hierarchy",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-products-in-the-medicinal-product-hierarchy.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-products-in-the-medicinal-product-hierarchy",
+                "type": "page"
+              },
+              {
+                "id": "vaccine-product-top-level-groupers",
+                "title": "Vaccine Product Top Level Groupers",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-product-top-level-groupers.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-product-top-level-groupers",
+                "type": "page"
+              },
+              {
+                "id": "vaccine-product-containing-concepts",
+                "title": "Vaccine Product Containing Concepts",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-product-containing-concepts.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-product-containing-concepts",
+                "type": "page"
+              },
+              {
+                "id": "vaccine-product-containing-only-concepts",
+                "title": "Vaccine Product Containing Only Concepts",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-product-containing-only-concepts.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/vaccine-product-containing-only-concepts",
+                "type": "page"
+              },
+              {
+                "id": "regimes-and-therapies",
+                "title": "Regimes And Therapies",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/regimes-and-therapies.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/regimes-and-therapies",
+                "type": "page"
+              },
+              {
+                "id": "chemotherapy-regime-therapy-naming-conventions",
+                "title": "Chemotherapy Regime Therapy Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/chemotherapy-regime-therapy-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/chemotherapy-regime-therapy-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "immunization-and-vaccination",
+                "title": "Immunization And Vaccination",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/immunization-and-vaccination.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/immunization-and-vaccination",
+                "type": "page"
+              },
+              {
+                "id": "antivenom",
+                "title": "Antivenom",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/antivenom.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/antivenom",
+                "type": "page"
+              },
+              {
+                "id": "ingredient-count-attributes",
+                "title": "Ingredient Count Attributes",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/ingredient-count-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/ingredient-count-attributes",
+                "type": "page"
+              },
+              {
+                "id": "ingredient-strength-attributes",
+                "title": "Ingredient Strength Attributes",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/ingredient-strength-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/ingredient-strength-attributes",
+                "type": "page"
+              },
+              {
+                "id": "qualifier-values-supporting-pharmaceutical-and-biologic-product",
+                "title": "Qualifier Values Supporting Pharmaceutical And Biologic Product",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/qualifier-values-supporting-pharmaceutical-and-biologic-product.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/qualifier-values-supporting-pharmaceutical-and-biologic-product",
+                "type": "page"
+              },
+              {
+                "id": "glossary-for-medicinal-product",
+                "title": "Glossary For Medicinal Product",
+                "file": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/glossary-for-medicinal-product.md",
+                "path": "03-authoring/domain-specific-modeling/pharmaceutical-and-biologic-product/glossary-for-medicinal-product",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "observable-entity",
+            "title": "Observable Entity",
+            "level": 2,
+            "type": "category",
+            "path": "observable-entity",
+            "files": [
+              {
+                "id": "observable-entity",
+                "title": "Observable Entity",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity",
+                "type": "page"
+              },
+              {
+                "id": "observable-entity-modeling",
+                "title": "Observable Entity Modeling",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-modeling",
+                "type": "page"
+              },
+              {
+                "id": "observable-entity-naming-conventions",
+                "title": "Observable Entity Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "observable-entity-attributes-summary",
+                "title": "Observable Entity Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "observable-entity-defining-attributes",
+                "title": "Observable Entity Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-defining-attributes",
+                "type": "page"
+              },
+              {
+                "id": "observable-entity-templates",
+                "title": "Observable Entity Templates",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-templates.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-templates",
+                "type": "page"
+              },
+              {
+                "id": "observable-entity-and-microbiology-test-results",
+                "title": "Observable Entity And Microbiology Test Results",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-and-microbiology-test-results.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/observable-entity-and-microbiology-test-results",
+                "type": "page"
+              },
+              {
+                "id": "measurement-findings",
+                "title": "Measurement Findings",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/measurement-findings.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/measurement-findings",
+                "type": "page"
+              },
+              {
+                "id": "nutritional-intake-observable-entities",
+                "title": "Nutritional Intake Observable Entities",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/nutritional-intake-observable-entities.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/nutritional-intake-observable-entities",
+                "type": "page"
+              },
+              {
+                "id": "representing-loinc-terms-with-the-snomed-ct-observable-entity-model",
+                "title": "Representing Loinc Terms With The Snomed Ct Observable Entity Model",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/representing-loinc-terms-with-the-snomed-ct-observable-entity-model.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/representing-loinc-terms-with-the-snomed-ct-observable-entity-model",
+                "type": "page"
+              },
+              {
+                "id": "relationship-between-observable-entities-and-npu-codes",
+                "title": "Relationship Between Observable Entities And Npu Codes",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/relationship-between-observable-entities-and-npu-codes.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/relationship-between-observable-entities-and-npu-codes",
+                "type": "page"
+              },
+              {
+                "id": "monitoring",
+                "title": "Monitoring",
+                "file": "03-authoring/domain-specific-modeling/observable-entity/monitoring.md",
+                "path": "03-authoring/domain-specific-modeling/observable-entity/monitoring",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "organism",
+            "title": "Organism",
+            "level": 2,
+            "type": "category",
+            "path": "organism",
+            "files": [
+              {
+                "id": "organism",
+                "title": "Organism",
+                "file": "03-authoring/domain-specific-modeling/organism/organism.md",
+                "path": "03-authoring/domain-specific-modeling/organism/organism",
+                "type": "page"
+              },
+              {
+                "id": "organism-naming-conventions",
+                "title": "Organism Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/organism/organism-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/organism/organism-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "bacterial-disorders-with-organism-or-toxin",
+                "title": "Bacterial Disorders With Organism Or Toxin",
+                "file": "03-authoring/domain-specific-modeling/organism/bacterial-disorders-with-organism-or-toxin.md",
+                "path": "03-authoring/domain-specific-modeling/organism/bacterial-disorders-with-organism-or-toxin",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "substance",
+            "title": "Substance",
+            "level": 2,
+            "type": "category",
+            "path": "substance",
+            "files": [
+              {
+                "id": "substance",
+                "title": "Substance",
+                "file": "03-authoring/domain-specific-modeling/substance/substance.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance",
+                "type": "page"
+              },
+              {
+                "id": "substance-attribute-summary",
+                "title": "Substance Attribute Summary",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-attribute-summary.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-attribute-summary",
+                "type": "page"
+              },
+              {
+                "id": "substance-concept-general-guidelines",
+                "title": "Substance Concept General Guidelines",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-concept-general-guidelines.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-concept-general-guidelines",
+                "type": "page"
+              },
+              {
+                "id": "substance-defining-attributes",
+                "title": "Substance Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-defining-attributes",
+                "type": "page"
+              },
+              {
+                "id": "substance-naming-and-modeling-conventions",
+                "title": "Substance Naming And Modeling Conventions",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-naming-and-modeling-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-naming-and-modeling-conventions",
+                "type": "page"
+              },
+              {
+                "id": "restructure-of-the-top-level-substances-hierarchy",
+                "title": "Restructure Of The Top Level Substances Hierarchy",
+                "file": "03-authoring/domain-specific-modeling/substance/restructure-of-the-top-level-substances-hierarchy.md",
+                "path": "03-authoring/domain-specific-modeling/substance/restructure-of-the-top-level-substances-hierarchy",
+                "type": "page"
+              },
+              {
+                "id": "guidelines-for-substance-hierarchy-grouper-concepts",
+                "title": "Guidelines For Substance Hierarchy Grouper Concepts",
+                "file": "03-authoring/domain-specific-modeling/substance/guidelines-for-substance-hierarchy-grouper-concepts.md",
+                "path": "03-authoring/domain-specific-modeling/substance/guidelines-for-substance-hierarchy-grouper-concepts",
+                "type": "page"
+              },
+              {
+                "id": "guidelines-for-specific-substance-types",
+                "title": "Guidelines For Specific Substance Types",
+                "file": "03-authoring/domain-specific-modeling/substance/guidelines-for-specific-substance-types.md",
+                "path": "03-authoring/domain-specific-modeling/substance/guidelines-for-specific-substance-types",
+                "type": "page"
+              },
+              {
+                "id": "substance-groupers-based-on-both-structure-and-disposition",
+                "title": "Substance Groupers Based On Both Structure And Disposition",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-groupers-based-on-both-structure-and-disposition.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-groupers-based-on-both-structure-and-disposition",
+                "type": "page"
+              },
+              {
+                "id": "substance-groupers-based-on-disposition",
+                "title": "Substance Groupers Based On Disposition",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-groupers-based-on-disposition.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-groupers-based-on-disposition",
+                "type": "page"
+              },
+              {
+                "id": "substance-groupers-based-on-structure",
+                "title": "Substance Groupers Based On Structure",
+                "file": "03-authoring/domain-specific-modeling/substance/substance-groupers-based-on-structure.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substance-groupers-based-on-structure",
+                "type": "page"
+              },
+              {
+                "id": "groupers-based-on-disposition",
+                "title": "Groupers Based On Disposition",
+                "file": "03-authoring/domain-specific-modeling/substance/groupers-based-on-disposition.md",
+                "path": "03-authoring/domain-specific-modeling/substance/groupers-based-on-disposition",
+                "type": "page"
+              },
+              {
+                "id": "supporting-hierarchy-disposition",
+                "title": "Supporting Hierarchy Disposition",
+                "file": "03-authoring/domain-specific-modeling/substance/supporting-hierarchy-disposition.md",
+                "path": "03-authoring/domain-specific-modeling/substance/supporting-hierarchy-disposition",
+                "type": "page"
+              },
+              {
+                "id": "concepts-representing-a-substance-or-its-modifications",
+                "title": "Concepts Representing A Substance Or Its Modifications",
+                "file": "03-authoring/domain-specific-modeling/substance/concepts-representing-a-substance-or-its-modifications.md",
+                "path": "03-authoring/domain-specific-modeling/substance/concepts-representing-a-substance-or-its-modifications",
+                "type": "page"
+              },
+              {
+                "id": "conjugate-acids-bases-and-salts",
+                "title": "Conjugate Acids Bases And Salts",
+                "file": "03-authoring/domain-specific-modeling/substance/conjugate-acids-bases-and-salts.md",
+                "path": "03-authoring/domain-specific-modeling/substance/conjugate-acids-bases-and-salts",
+                "type": "page"
+              },
+              {
+                "id": "sodium-valproate-and-valproic-acid",
+                "title": "Sodium Valproate And Valproic Acid",
+                "file": "03-authoring/domain-specific-modeling/substance/sodium-valproate-and-valproic-acid.md",
+                "path": "03-authoring/domain-specific-modeling/substance/sodium-valproate-and-valproic-acid",
+                "type": "page"
+              },
+              {
+                "id": "hydrates-and-anhydrous-substances",
+                "title": "Hydrates And Anhydrous Substances",
+                "file": "03-authoring/domain-specific-modeling/substance/hydrates-and-anhydrous-substances.md",
+                "path": "03-authoring/domain-specific-modeling/substance/hydrates-and-anhydrous-substances",
+                "type": "page"
+              },
+              {
+                "id": "anhydrous",
+                "title": "Anhydrous",
+                "file": "03-authoring/domain-specific-modeling/substance/anhydrous.md",
+                "path": "03-authoring/domain-specific-modeling/substance/anhydrous",
+                "type": "page"
+              },
+              {
+                "id": "fractionated-and-unfractionated-substances",
+                "title": "Fractionated And Unfractionated Substances",
+                "file": "03-authoring/domain-specific-modeling/substance/fractionated-and-unfractionated-substances.md",
+                "path": "03-authoring/domain-specific-modeling/substance/fractionated-and-unfractionated-substances",
+                "type": "page"
+              },
+              {
+                "id": "saturated-or-unsaturated-substances",
+                "title": "Saturated Or Unsaturated Substances",
+                "file": "03-authoring/domain-specific-modeling/substance/saturated-or-unsaturated-substances.md",
+                "path": "03-authoring/domain-specific-modeling/substance/saturated-or-unsaturated-substances",
+                "type": "page"
+              },
+              {
+                "id": "isomers",
+                "title": "Isomers",
+                "file": "03-authoring/domain-specific-modeling/substance/isomers.md",
+                "path": "03-authoring/domain-specific-modeling/substance/isomers",
+                "type": "page"
+              },
+              {
+                "id": "radioactive-substances",
+                "title": "Radioactive Substances",
+                "file": "03-authoring/domain-specific-modeling/substance/radioactive-substances.md",
+                "path": "03-authoring/domain-specific-modeling/substance/radioactive-substances",
+                "type": "page"
+              },
+              {
+                "id": "ions-and-electrolyte-substances",
+                "title": "Ions And Electrolyte Substances",
+                "file": "03-authoring/domain-specific-modeling/substance/ions-and-electrolyte-substances.md",
+                "path": "03-authoring/domain-specific-modeling/substance/ions-and-electrolyte-substances",
+                "type": "page"
+              },
+              {
+                "id": "antibodies-and-antigens",
+                "title": "Antibodies And Antigens",
+                "file": "03-authoring/domain-specific-modeling/substance/antibodies-and-antigens.md",
+                "path": "03-authoring/domain-specific-modeling/substance/antibodies-and-antigens",
+                "type": "page"
+              },
+              {
+                "id": "autoantibody",
+                "title": "Autoantibody",
+                "file": "03-authoring/domain-specific-modeling/substance/autoantibody.md",
+                "path": "03-authoring/domain-specific-modeling/substance/autoantibody",
+                "type": "page"
+              },
+              {
+                "id": "deoxyribonucleic-acid-and-ribonucleic-acid",
+                "title": "Deoxyribonucleic Acid And Ribonucleic Acid",
+                "file": "03-authoring/domain-specific-modeling/substance/deoxyribonucleic-acid-and-ribonucleic-acid.md",
+                "path": "03-authoring/domain-specific-modeling/substance/deoxyribonucleic-acid-and-ribonucleic-acid",
+                "type": "page"
+              },
+              {
+                "id": "edible-substance-and-descendants",
+                "title": "Edible Substance And Descendants",
+                "file": "03-authoring/domain-specific-modeling/substance/edible-substance-and-descendants.md",
+                "path": "03-authoring/domain-specific-modeling/substance/edible-substance-and-descendants",
+                "type": "page"
+              },
+              {
+                "id": "flap-substances",
+                "title": "Flap Substances",
+                "file": "03-authoring/domain-specific-modeling/substance/flap-substances.md",
+                "path": "03-authoring/domain-specific-modeling/substance/flap-substances",
+                "type": "page"
+              },
+              {
+                "id": "metabolites",
+                "title": "Metabolites",
+                "file": "03-authoring/domain-specific-modeling/substance/metabolites.md",
+                "path": "03-authoring/domain-specific-modeling/substance/metabolites",
+                "type": "page"
+              },
+              {
+                "id": "state-of-matter",
+                "title": "State Of Matter",
+                "file": "03-authoring/domain-specific-modeling/substance/state-of-matter.md",
+                "path": "03-authoring/domain-specific-modeling/substance/state-of-matter",
+                "type": "page"
+              },
+              {
+                "id": "international-system-of-units-derived-unit-of-volume",
+                "title": "International System Of Units Derived Unit Of Volume",
+                "file": "03-authoring/domain-specific-modeling/substance/international-system-of-units-derived-unit-of-volume.md",
+                "path": "03-authoring/domain-specific-modeling/substance/international-system-of-units-derived-unit-of-volume",
+                "type": "page"
+              },
+              {
+                "id": "international-system-of-units-unit-of-mass",
+                "title": "International System Of Units Unit Of Mass",
+                "file": "03-authoring/domain-specific-modeling/substance/international-system-of-units-unit-of-mass.md",
+                "path": "03-authoring/domain-specific-modeling/substance/international-system-of-units-unit-of-mass",
+                "type": "page"
+              },
+              {
+                "id": "mass-vs-weight",
+                "title": "Mass Vs Weight",
+                "file": "03-authoring/domain-specific-modeling/substance/mass-vs-weight.md",
+                "path": "03-authoring/domain-specific-modeling/substance/mass-vs-weight",
+                "type": "page"
+              },
+              {
+                "id": "substances-specifying-a-source-or-origin",
+                "title": "Substances Specifying A Source Or Origin",
+                "file": "03-authoring/domain-specific-modeling/substance/substances-specifying-a-source-or-origin.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substances-specifying-a-source-or-origin",
+                "type": "page"
+              },
+              {
+                "id": "substances-specifying-bound",
+                "title": "Substances Specifying Bound",
+                "file": "03-authoring/domain-specific-modeling/substance/substances-specifying-bound.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substances-specifying-bound",
+                "type": "page"
+              },
+              {
+                "id": "substances-specifying-free-or-unbound-or-unconjugated",
+                "title": "Substances Specifying Free Or Unbound Or Unconjugated",
+                "file": "03-authoring/domain-specific-modeling/substance/substances-specifying-free-or-unbound-or-unconjugated.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substances-specifying-free-or-unbound-or-unconjugated",
+                "type": "page"
+              },
+              {
+                "id": "substances-specifying-intact-fragment-or-subunit",
+                "title": "Substances Specifying Intact Fragment Or Subunit",
+                "file": "03-authoring/domain-specific-modeling/substance/substances-specifying-intact-fragment-or-subunit.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substances-specifying-intact-fragment-or-subunit",
+                "type": "page"
+              },
+              {
+                "id": "substances-specifying-physical-state-or-physical-form",
+                "title": "Substances Specifying Physical State Or Physical Form",
+                "file": "03-authoring/domain-specific-modeling/substance/substances-specifying-physical-state-or-physical-form.md",
+                "path": "03-authoring/domain-specific-modeling/substance/substances-specifying-physical-state-or-physical-form",
+                "type": "page"
+              },
+              {
+                "id": "type-of-drug-preparation",
+                "title": "Type Of Drug Preparation",
+                "file": "03-authoring/domain-specific-modeling/substance/type-of-drug-preparation.md",
+                "path": "03-authoring/domain-specific-modeling/substance/type-of-drug-preparation",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "physical-object",
+            "title": "Physical Object",
+            "level": 2,
+            "type": "category",
+            "path": "physical-object",
+            "files": [
+              {
+                "id": "physical-object",
+                "title": "Physical Object",
+                "file": "03-authoring/domain-specific-modeling/physical-object/physical-object.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/physical-object",
+                "type": "page"
+              },
+              {
+                "id": "physical-object-attributes-summary",
+                "title": "Physical Object Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/physical-object/physical-object-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/physical-object-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "physical-object-defining-attributes",
+                "title": "Physical Object Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/physical-object/physical-object-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/physical-object-defining-attributes",
+                "type": "page"
+              },
+              {
+                "id": "physical-object-naming-and-modeling-conventions",
+                "title": "Physical Object Naming And Modeling Conventions",
+                "file": "03-authoring/domain-specific-modeling/physical-object/physical-object-naming-and-modeling-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/physical-object-naming-and-modeling-conventions",
+                "type": "page"
+              },
+              {
+                "id": "breast-prosthesis-naming-and-modeling",
+                "title": "Breast Prosthesis Naming And Modeling",
+                "file": "03-authoring/domain-specific-modeling/physical-object/breast-prosthesis-naming-and-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/breast-prosthesis-naming-and-modeling",
+                "type": "page"
+              },
+              {
+                "id": "cardiac-valve-prosthesis-naming-and-modeling",
+                "title": "Cardiac Valve Prosthesis Naming And Modeling",
+                "file": "03-authoring/domain-specific-modeling/physical-object/cardiac-valve-prosthesis-naming-and-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/cardiac-valve-prosthesis-naming-and-modeling",
+                "type": "page"
+              },
+              {
+                "id": "shunt-naming-and-modeling",
+                "title": "Shunt Naming And Modeling",
+                "file": "03-authoring/domain-specific-modeling/physical-object/shunt-naming-and-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/shunt-naming-and-modeling",
+                "type": "page"
+              },
+              {
+                "id": "stent-naming-and-modeling",
+                "title": "Stent Naming And Modeling",
+                "file": "03-authoring/domain-specific-modeling/physical-object/stent-naming-and-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/physical-object/stent-naming-and-modeling",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "specimen",
+            "title": "Specimen",
+            "level": 2,
+            "type": "category",
+            "path": "specimen",
+            "files": [
+              {
+                "id": "specimen",
+                "title": "Specimen",
+                "file": "03-authoring/domain-specific-modeling/specimen/specimen.md",
+                "path": "03-authoring/domain-specific-modeling/specimen/specimen",
+                "type": "page"
+              },
+              {
+                "id": "specimen-attributes-summary",
+                "title": "Specimen Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/specimen/specimen-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/specimen/specimen-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "specimen-defining-attributes",
+                "title": "Specimen Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/specimen/specimen-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/specimen/specimen-defining-attributes",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "situation-with-explicit-context",
+            "title": "Situation with Explicit Context",
+            "level": 2,
+            "type": "category",
+            "path": "situation-with-explicit-context",
+            "files": [
+              {
+                "id": "situation-with-explicit-context",
+                "title": "Situation With Explicit Context",
+                "file": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context.md",
+                "path": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context",
+                "type": "page"
+              },
+              {
+                "id": "situation-with-explicit-context-modeling",
+                "title": "Situation With Explicit Context Modeling",
+                "file": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-modeling.md",
+                "path": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-modeling",
+                "type": "page"
+              },
+              {
+                "id": "situation-with-explicit-context-naming-conventions",
+                "title": "Situation With Explicit Context Naming Conventions",
+                "file": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-naming-conventions.md",
+                "path": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-naming-conventions",
+                "type": "page"
+              },
+              {
+                "id": "situation-with-explicit-context-attributes-summary",
+                "title": "Situation With Explicit Context Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "situation-with-explicit-context-defining-attributes",
+                "title": "Situation With Explicit Context Defining Attributes",
+                "file": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-defining-attributes.md",
+                "path": "03-authoring/domain-specific-modeling/situation-with-explicit-context/situation-with-explicit-context-defining-attributes",
+                "type": "page"
+              }
+            ]
+          },
+          {
+            "id": "other-domains",
+            "title": "Other Domains",
+            "level": 2,
+            "type": "category",
+            "path": "other-domains",
+            "files": [
+              {
+                "id": "environment-and-geographical-location",
+                "title": "Environment And Geographical Location",
+                "file": "03-authoring/domain-specific-modeling/other-domains/environment-and-geographical-location.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/environment-and-geographical-location",
+                "type": "page"
+              },
+              {
+                "id": "event",
+                "title": "Event",
+                "file": "03-authoring/domain-specific-modeling/other-domains/event.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/event",
+                "type": "page"
+              },
+              {
+                "id": "event-attributes-summary",
+                "title": "Event Attributes Summary",
+                "file": "03-authoring/domain-specific-modeling/other-domains/event-attributes-summary.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/event-attributes-summary",
+                "type": "page"
+              },
+              {
+                "id": "encounter",
+                "title": "Encounter",
+                "file": "03-authoring/domain-specific-modeling/other-domains/encounter.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/encounter",
+                "type": "page"
+              },
+              {
+                "id": "qualifier-value",
+                "title": "Qualifier Value",
+                "file": "03-authoring/domain-specific-modeling/other-domains/qualifier-value.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/qualifier-value",
+                "type": "page"
+              },
+              {
+                "id": "record-artifact",
+                "title": "Record Artifact",
+                "file": "03-authoring/domain-specific-modeling/other-domains/record-artifact.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/record-artifact",
+                "type": "page"
+              },
+              {
+                "id": "social-context",
+                "title": "Social Context",
+                "file": "03-authoring/domain-specific-modeling/other-domains/social-context.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/social-context",
+                "type": "page"
+              },
+              {
+                "id": "special-concept",
+                "title": "Special Concept",
+                "file": "03-authoring/domain-specific-modeling/other-domains/special-concept.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/special-concept",
+                "type": "page"
+              },
+              {
+                "id": "staging-and-scales",
+                "title": "Staging And Scales",
+                "file": "03-authoring/domain-specific-modeling/other-domains/staging-and-scales.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/staging-and-scales",
+                "type": "page"
+              },
+              {
+                "id": "naming-convention-for-sep-model",
+                "title": "Naming Convention For Sep Model",
+                "file": "03-authoring/domain-specific-modeling/other-domains/naming-convention-for-sep-model.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/naming-convention-for-sep-model",
+                "type": "page"
+              },
+              {
+                "id": "physical-force",
+                "title": "Physical Force",
+                "file": "03-authoring/domain-specific-modeling/other-domains/physical-force.md",
+                "path": "03-authoring/domain-specific-modeling/other-domains/physical-force",
+                "type": "page"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "04-editorial-guide-style-and-terms",
+    "title": "Editorial Guide Style and Terms",
+    "level": 0,
+    "type": "category",
+    "path": "04-editorial-guide-style-and-terms",
+    "files": [
+      {
+        "id": "editorial-guide-style-and-terms",
+        "title": "Editorial Guide Style And Terms",
+        "file": "04-editorial-guide-style-and-terms/editorial-guide-style-and-terms.md",
+        "path": "04-editorial-guide-style-and-terms/editorial-guide-style-and-terms",
+        "type": "page"
+      },
+      {
+        "id": "snomed-ct-editorial-guide",
+        "title": "Snomed Ct Editorial Guide",
+        "file": "04-editorial-guide-style-and-terms/snomed-ct-editorial-guide.md",
+        "path": "04-editorial-guide-style-and-terms/snomed-ct-editorial-guide",
+        "type": "page"
+      }
+    ]
+  },
+  {
+    "id": "05-pdfs-for-download",
+    "title": "PDFs for Download",
+    "level": 0,
+    "type": "category",
+    "path": "05-pdfs-for-download",
+    "files": [
+      {
+        "id": "pdfs-for-download",
+        "title": "Pdfs For Download",
+        "file": "05-pdfs-for-download/pdfs-for-download.md",
+        "path": "05-pdfs-for-download/pdfs-for-download",
+        "type": "page"
+      }
+    ]
+  }
+]

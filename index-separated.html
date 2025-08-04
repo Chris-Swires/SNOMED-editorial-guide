@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SNOMED CT Editorial Guide Browser | SNOMED International</title>
+    <meta name="description" content="Interactive browser for the SNOMED CT Editorial Guide - comprehensive clinical terminology management guidelines from SNOMED International">
+    <meta name="keywords" content="SNOMED CT, clinical terminology, healthcare, medical coding, SNOMED International, editorial guide">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏥</text></svg>">
+    
+    <!-- External Dependencies -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Material Icons and Fonts -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Application Styles -->
+    <link rel="stylesheet" href="css/main.css">
+    
+    <!-- Configuration and Services -->
+    <script src="config.js"></script>
+    <script src="gemini-service.js"></script>
+    <script src="data/snomed-stats.js"></script>
+</head>
+<body>
+    <!-- Progress Indicator -->
+    <div class="progress-indicator">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center">
+                    <div class="text-2xl mr-3">🏥</div>
+                    <div>
+                        <h1 class="text-xl font-bold text-white">SNOMED CT Editorial Guide</h1>
+                        <p class="text-sm text-gray-300">Interactive Browser</p>
+                    </div>
+                </div>
+                
+                <div class="flex items-center space-x-4">
+                    <!-- Search Bar -->
+                    <div class="relative">
+                        <input type="text" 
+                               id="searchInput"
+                               placeholder="Search sections..." 
+                               class="w-64 px-4 py-2 pl-10 pr-4 text-sm bg-white rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+                        <span class="material-icons absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 text-sm">search</span>
+                    </div>
+                    
+                    <!-- Mobile Menu Button -->
+                    <button id="mobileMenuBtn" class="lg:hidden text-white hover:text-gray-300">
+                        <span class="material-icons">menu</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Layout -->
+    <div class="min-h-screen">
+        <!-- Sidebar -->
+        <div id="sidebar" class="sidebar-container sticky">
+            <nav class="sidebar-nav">
+                <!-- Sidebar content will be dynamically rendered -->
+            </nav>
+        </div>
+
+        <!-- Main Content -->
+        <main id="content" class="main-content">
+            <!-- Content will be dynamically rendered -->
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="container">
+            <div class="grid md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">SNOMED CT Editorial Guide</h3>
+                    <p class="text-gray-300 text-sm">
+                        Comprehensive guidelines for clinical terminology management and implementation.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Quick Links</h3>
+                    <ul class="space-y-2 text-sm text-gray-300">
+                        <li><a href="#" onclick="app.selectSection('snomed-ct-introduction')" class="hover:text-white transition-colors">Introduction</a></li>
+                        <li><a href="#" onclick="app.selectSection('concept-model-overview')" class="hover:text-white transition-colors">Concept Model</a></li>
+                        <li><a href="#" onclick="app.selectSection('authoring')" class="hover:text-white transition-colors">Authoring Guidelines</a></li>
+                        <li><a href="#" onclick="app.selectSection('editorial-guide-style-and-terms')" class="hover:text-white transition-colors">Style Guide</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Resources</h3>
+                    <ul class="space-y-2 text-sm text-gray-300">
+                        <li><a href="https://www.snomed.org" target="_blank" class="hover:text-white transition-colors">SNOMED International</a></li>
+                        <li><a href="https://www.snomed.org/snomed-ct" target="_blank" class="hover:text-white transition-colors">SNOMED CT</a></li>
+                        <li><a href="https://www.snomed.org/snomed-ct/get-snomed-ct" target="_blank" class="hover:text-white transition-colors">Get SNOMED CT</a></li>
+                        <li><a href="https://www.snomed.org/snomed-ct/support" target="_blank" class="hover:text-white transition-colors">Support</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-400">
+                <p>&copy; 2025 SNOMED International. All rights reserved.</p>
+                <p class="mt-2">This application is designed to complement the official SNOMED CT Editorial Guide.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button -->
+    <button id="scrollToTop" 
+            class="fixed bottom-8 right-8 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-all opacity-0 pointer-events-none">
+        <span class="material-icons">keyboard_arrow_up</span>
+    </button>
+
+    <!-- Application Scripts -->
+    <script src="js/data-loader.js"></script>
+    <script src="services/hrcm-service.js"></script>
+    <script src="js/app.js"></script>
+    
+    <!-- Initialize Application -->
+    <script>
+        // Initialize the application when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            (async () => {
+                console.log('📚 Loading markdown sections...');
+                await loadMarkdownSections();
+                console.log(`✅ Loaded ${guideData.sections.length} sections`);
+                
+                // Initialize services
+                await hrcmService.init();
+                
+                // Initialize main application
+                app.init();
+                
+                // Handle URL immediately after sections are loaded
+                if (app.handleURLOnLoad) {
+                    app.handleURLOnLoad();
+                }
+            })();
+        });
+
+        // Scroll to top functionality
+        window.addEventListener('scroll', () => {
+            const scrollToTopBtn = document.getElementById('scrollToTop');
+            if (window.pageYOffset > 300) {
+                scrollToTopBtn.classList.remove('opacity-0', 'pointer-events-none');
+            } else {
+                scrollToTopBtn.classList.add('opacity-0', 'pointer-events-none');
+            }
+        });
+
+        document.getElementById('scrollToTop').addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // Mobile menu functionality
+        document.getElementById('mobileMenuBtn').addEventListener('click', () => {
+            const sidebar = document.querySelector('.sidebar-container');
+            sidebar.classList.toggle('open');
+        });
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', (e) => {
+            const sidebar = document.querySelector('.sidebar-container');
+            const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+            
+            if (!sidebar.contains(e.target) && !mobileMenuBtn.contains(e.target)) {
+                sidebar.classList.remove('open');
+            }
+        });
+
+        // Progress bar functionality
+        window.addEventListener('scroll', () => {
+            const scrollTop = window.pageYOffset;
+            const docHeight = document.body.offsetHeight - window.innerHeight;
+            const scrollPercent = (scrollTop / docHeight) * 100;
+            
+            const progressBar = document.getElementById('progressBar');
+            if (progressBar) {
+                progressBar.style.width = scrollPercent + '%';
+            }
+        });
+    </script>
+</body>
+</html> 
